@@ -1,0 +1,35 @@
+body {
+    background-color: #08080a;
+}
+
+h1 {
+    text-align: center;
+    color: #717c81;
+}
+
+p {
+    text-align: center;
+    color: #717c81;
+}
+
+.Picture {
+    width: auto;
+    border-radius: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.quote {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 28px;
+}
+
+.Header {
+    margin-top: 50px;
+    margin-top: 40px;
+}
+
+.Author {font-style: italic;}
